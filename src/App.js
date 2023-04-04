@@ -11,7 +11,7 @@ const App = () => (
   // FIX2: Routes should be wrapped with Switch component from react-router-dom
   <BrowserRouter>
     <Switch>
-      <Route exact path="/" component={Home} />
+      <Route exact path="/IPLApp" component={Home} />
       <Route path="/team-matches/:id" component={TeamMatches} />
       <Route component={NotFound} />
     </Switch>
