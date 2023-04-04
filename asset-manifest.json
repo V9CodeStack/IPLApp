@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/IPLApp/static/css/main.c3ca6858.css",
-    "main.js": "/IPLApp/static/js/main.f6f879eb.js",
+    "main.js": "/IPLApp/static/js/main.1360c4ec.js",
     "index.html": "/IPLApp/index.html",
     "main.c3ca6858.css.map": "/IPLApp/static/css/main.c3ca6858.css.map",
-    "main.f6f879eb.js.map": "/IPLApp/static/js/main.f6f879eb.js.map"
+    "main.1360c4ec.js.map": "/IPLApp/static/js/main.1360c4ec.js.map"
   },
   "entrypoints": [
     "static/css/main.c3ca6858.css",
-    "static/js/main.f6f879eb.js"
+    "static/js/main.1360c4ec.js"
   ]
 }
